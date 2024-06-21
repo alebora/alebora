@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ale</h1>
 <h3 align="center">I thrive on crafting effective software.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alebora" alt="alebora" /></a> </p>
-<img align=”right” alt=”Coding” width=”200” src=https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 - 👩‍💻 I’m currently working on **A super cool python project...**
 
@@ -13,7 +12,6 @@
 
 - 🤯 Fun fact **I can speak more than 3 languages:)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
