@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=CF18B9&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ale+Welcome+to+my+Profile🧞‍♀️" align="middle" alt="Hey, I'm Ale and Welcome to my Profile🧞‍♀️ animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2800&pause=2000&color=CF18B9&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ale🧞‍♀️+Welcome+to+my+Profile" align="middle" alt="Hey, I'm Ale and Welcome to my Profile🧞‍♀️ animated typed out" width="100%"/>
 <h1 align="center">Hi, I'm Ale:)</h1>
 <h3 align="center">I thrive on crafting effective software.</h3>
 
