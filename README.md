@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alebora&show_icons=true&locale=en&layout=compact" alt="alebora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alebora&show_icons=true&locale=en" alt="alebora" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alebora&show_icons=true&locale=en" alt="alebora" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alebora&" alt="alebora" /></p>
 
