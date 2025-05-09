@@ -15,5 +15,3 @@ Fun fact I can speak more than 3 languages fluently:)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alebora&" alt="alebora" /></p> -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alebora)](https://git.io/streak-stats)
-
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alebora&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
