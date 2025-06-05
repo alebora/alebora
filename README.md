@@ -22,9 +22,10 @@
 
 ## My Projects
 
-### WellRise[HTN2024] – Guide to wellness
+### WellRise ⚙️HTN2024⚙️ – Guide to wellness
 
 <!-- <img src="https://github.com/user-attachments/assets/0ce22c28-e062-4942-8d39-baf93eb919cc" width="100%"/> -->
+<img width="650" alt="wellrise" src="https://github.com/alebora/WellRise_Info/blob/main/static/images/wellRisePhysical.png">
 
 **Wellrise** integrates an Arduino Uno with a Flask web application to monitor real-time sensor data.
 
@@ -33,6 +34,7 @@
 ### Pantry Pal – Waste Food no more
 
 <!-- <img src="https://github.com/user-attachments/assets/519cc921-5d7a-4a8c-914c-58a9363e2d0b" width="100%"/> -->
+<img width="1285" alt="pantrypal2" src="https://github.com/jkmathilda/PantryPal/assets/142202145/7b09448f-bacb-4117-8d04-42f587d11960">
 
 **Pantry Pal**  full-stack web application utilizing OpenAI that provides recipe suggestions and helps prevent food waste.
 
@@ -41,6 +43,10 @@
 ### Movie Filter – Let the movie be chosen for you
 
 <!-- <img src="https://github.com/user-attachments/assets/483bb202-43f4-4e7b-aff1-8ca75f4df1e4" width="100%"/> -->
+No more time wasting searching for the perfcet movie
+
+<img width="1285" alt="moviefilter" src="https://github.com/alebora/MovieFilter/blob/main/static/movieFilter.png">
+
 
 **Movie Filter** full-stack web applictaion that helps you to spend less time picking the movie and more time enjoying it.
 
