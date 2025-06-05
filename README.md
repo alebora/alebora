@@ -1,13 +1,82 @@
-## Hola! My name is Ale:)👩‍💻
-I am a second year student at the University of Waterloo. Passionate about learning, I’m continuously enhancing my technical skills through problem-solving and creating exciting projects. Although I haven't done much yet, take a look at what I’ve been working on! 
+# Hola! My name is Ale:)👩‍💻
+<a href="https://www.linkedin.com/in/sashaboruk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn Badge"/>
+</a>
+<a href="https://boruksasha.pythonanywhere.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Personal-1DA1F2" alt="Twitter Badge"/>
+</a>
+<a href="sboruk@uwaterloo.ca" target="_blank">
+  <img src="https://img.shields.io/badge/Email-E4405F" alt="Instagram Badge"/>
+</a>
 
-Fun fact I can speak more than 3 languages fluently:) 
+## About Me
+<p>I am a second year student at the University of Waterloo.</p>
+<p>-Currently exploring Swift, UIKit & SwiftUI with a focus on system architecture and app performance </p>
+<p>-Goal: Build scalable, high-performance backend systems</p>
+<p>-Experienced with Flask for building RESTful APIs and lightweight web backends</p>
+<p>-Also exploring Unity for backend-driven game logic and real-time simulation systems</p>
+
 
 <p align="left">
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## My Projects
+
+### WellRise[HTN2024] – Guide to wellness
+
+<!-- <img src="https://github.com/user-attachments/assets/0ce22c28-e062-4942-8d39-baf93eb919cc" width="100%"/> -->
+
+**Wellrise** integrates an Arduino Uno with a Flask web application to monitor real-time sensor data.
+
+---
+
+### Pantry Pal – Waste Food no more
+
+<!-- <img src="https://github.com/user-attachments/assets/519cc921-5d7a-4a8c-914c-58a9363e2d0b" width="100%"/> -->
+
+**Pantry Pal**  full-stack web application utilizing OpenAI that provides recipe suggestions and helps prevent food waste.
+
+---
+
+### Movie Filter – Let the movie be chosen for you
+
+<!-- <img src="https://github.com/user-attachments/assets/483bb202-43f4-4e7b-aff1-8ca75f4df1e4" width="100%"/> -->
+
+**Movie Filter** full-stack web applictaion that helps you to spend less time picking the movie and more time enjoying it.
+
+
+## Some Tools I Use
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" height="40"/> <img width="12"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-line.svg" alt="openai" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> <img width="12"/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-plain.svg" alt="raspberry" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" height="40"/> <img width="12"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" height="40"/> <img width="12"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> <img width="12"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> <img width="12"/> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="40"/> <img width="12"/>
+  -->
+</p>
+
+## GitHub Streak
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alebora&show_icons=true&locale=en&layout=compact" alt="alebora" /></p>
 
