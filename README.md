@@ -51,6 +51,16 @@ No more time wasting searching for the perfcet movie
 **Movie Filter** full-stack web applictaion that helps you to spend less time picking the movie and more time enjoying it.
 
 
+
+
+### 🏁 Fast & Furious Typing Race – Test your speed, race against time!
+
+No more boring typing tests, race like a pro and feel the adrenaline!
+
+<img width="1285" alt="fastfurious" src="https://github.com/alebora/ff_TypingSpeedGame-quick/blob/main/demoScreenshot.jpg">
+
+**Fast & Furious Typing Race** web app designed for quick and exciting typing practice. Challenge yourself to type iconic quotes from the Fast & Furious saga, improve your speed and accuracy, and experience the thrill of finishing under pressure, all in a visually engaging interface. Perfect for those who love fast-paced fun and skill-building!
+
 ## Some Tools I Use
 
 <p align="left"> 
