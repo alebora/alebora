@@ -61,6 +61,15 @@ No more boring typing tests, race like a pro and feel the adrenaline!
 
 **Fast & Furious Typing Race** web app designed for quick and exciting typing practice. Challenge yourself to type iconic quotes from the Fast & Furious saga, improve your speed and accuracy, and experience the thrill of finishing under pressure, all in a visually engaging interface. Perfect for those who love fast-paced fun and skill-building!
 
+### 🥷🐸 First Platform Game – Frog Ninja
+
+Fast-paced ninja adventure
+
+<img width="1285" alt="platformGame" src="https://github.com/alebora/First2DGame/blob/main/demo2.png">
+
+Godot-powered action game where you play as a frog ninja on a mission through danger-filled terrain. Fully animated and dynamic characters and background.
+
+
 ## Some Tools I Use
 
 <p align="left"> 
@@ -86,6 +95,7 @@ No more boring typing tests, race like a pro and feel the adrenaline!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> <img width="12"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" height="40"/> <img width="12"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" height="40"/> <img width="12"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="goDot" height="40"/> <img width="12"/>
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> <img width="12"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> <img width="12"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="40"/> <img width="12"/>
