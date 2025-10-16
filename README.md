@@ -25,7 +25,7 @@
 ### WellRise ⚙️HTN2024⚙️ – Guide to wellness
 
 <!-- <img src="https://github.com/user-attachments/assets/0ce22c28-e062-4942-8d39-baf93eb919cc" width="100%"/> -->
-<img width="650" alt="wellrise" src="https://github.com/alebora/WellRise_Info/blob/main/static/images/wellRisePhysical.png">
+<img width="325" alt="wellrise" src="https://github.com/alebora/WellRise_Info/blob/main/static/images/wellRisePhysical.png">
 
 **Wellrise** integrates an Arduino Uno with a Flask web application to monitor real-time sensor data.
 
@@ -34,7 +34,7 @@
 ### Pantry Pal – Waste Food no more
 
 <!-- <img src="https://github.com/user-attachments/assets/519cc921-5d7a-4a8c-914c-58a9363e2d0b" width="100%"/> -->
-<img width="1285" alt="pantrypal2" src="https://github.com/jkmathilda/PantryPal/assets/142202145/7b09448f-bacb-4117-8d04-42f587d11960">
+<img width="600" alt="pantrypal2" src="https://github.com/jkmathilda/PantryPal/assets/142202145/7b09448f-bacb-4117-8d04-42f587d11960">
 
 **Pantry Pal**  full-stack web application utilizing OpenAI that provides recipe suggestions and helps prevent food waste.
 
@@ -45,7 +45,7 @@
 <!-- <img src="https://github.com/user-attachments/assets/483bb202-43f4-4e7b-aff1-8ca75f4df1e4" width="100%"/> -->
 No more time wasting searching for the perfcet movie
 
-<img width="1285" alt="moviefilter" src="https://github.com/alebora/MovieFilter/blob/main/static/movieFilter.png">
+<img width="600" alt="moviefilter" src="https://github.com/alebora/MovieFilter/blob/main/static/movieFilter.png">
 
 
 **Movie Filter** full-stack web applictaion that helps you to spend less time picking the movie and more time enjoying it.
@@ -57,7 +57,7 @@ No more time wasting searching for the perfcet movie
 
 No more boring typing tests, race like a pro and feel the adrenaline!
 
-<img width="1285" alt="fastfurious" src="https://github.com/alebora/ff_TypingSpeedGame-quick/blob/main/demoScreenshot.jpg">
+<img width="600" alt="fastfurious" src="https://github.com/alebora/ff_TypingSpeedGame-quick/blob/main/demoScreenshot.jpg">
 
 **Fast & Furious Typing Race** web app designed for quick and exciting typing practice. Challenge yourself to type iconic quotes from the Fast & Furious saga, improve your speed and accuracy, and experience the thrill of finishing under pressure, all in a visually engaging interface. Perfect for those who love fast-paced fun and skill-building!
 
@@ -65,7 +65,7 @@ No more boring typing tests, race like a pro and feel the adrenaline!
 
 Fast-paced ninja adventure
 
-<img width="1285" alt="platformGame" src="https://github.com/alebora/First2DGame/blob/main/demo2.png">
+<img width="600" alt="platformGame" src="https://github.com/alebora/First2DGame/blob/main/demo2.png">
 
 Godot-powered action game where you play as a frog ninja on a mission through danger-filled terrain. Fully animated and dynamic characters and background.
 
