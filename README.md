@@ -12,7 +12,7 @@
 ## About Me
 <p>I am a second year student at the University of Waterloo.</p>
 <p>-Currently exploring Swift, UIKit & SwiftUI with a focus on system architecture and app performance </p>
-<p>-Goal: Build scalable, high-performance backend systems</p>
+<!-- <p>-Goal: Build scalable, high-performance backend systems</p> -->
 <p>-Experienced with Flask for building RESTful APIs and lightweight web backends</p>
 <p>-Also exploring Unity for backend-driven game logic and real-time simulation systems</p>
 
