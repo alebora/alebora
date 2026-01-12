@@ -1,4 +1,4 @@
-# Hola! My name is Ale:)👩‍💻
+### Hola! My name is Ale👩‍💻
 <a href="https://www.linkedin.com/in/sashaboruk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn Badge"/>
 </a>
@@ -9,20 +9,59 @@
   <img src="https://img.shields.io/badge/Email-E4405F" alt="Instagram Badge"/>
 </a>
 
-## About Me
-<p>I am a second year student at the University of Waterloo.</p>
-<p>-Currently exploring Swift, UIKit & SwiftUI with a focus on system architecture and app performance </p>
-<!-- <p>-Goal: Build scalable, high-performance backend systems</p> -->
-<p>-Experienced with Flask for building RESTful APIs and lightweight web backends</p>
-<p>-Also exploring Unity for backend-driven game logic and real-time simulation systems</p>
+<img align="left" src="/av.jpeg" width="300" >
+
+<samp> 🌸 Welcome to my github :)</samp>
 
 
-<p align="left">
-</p>
+<samp>
+  
+Combinatorics and Optimization @
+<a href="https://uwaterloo.ca/future-students/programs/combinatorics-and-optimization">University of Waterloo</a>
+<br><br>
 
-## My Projects
+<b>currently:</b><br>
+On Co-op Summer 2026
+<br><br>
 
-### WellRise ⚙️HTN2024⚙️ – Guide to wellness
+<b>previously:</b><br>
+Web Dev @ 
+<a href="https://hackthe6ix.com/">Hack The 6ix</a>
+ /
+Software Engineering @ 
+<a href="https://www.agfahealthcare.com/augmented-intelligence/">AGFA</a>
+ /
+Web Dev @ 
+<a href="https://hackthe6ix.com/">Hack The 6ix</a>
+ /
+Marketing Coordinator @ 
+<a href="https://csclub.uwaterloo.ca/">UW Computer Science Club</a>
+ /
+Director of Publicity @ 
+<a href="https://wics.uwaterloo.ca/">UW Women in CS</a>
+/
+Junior Systems Architect @ 
+<a href="https://www.embis.ca/">MBIS</a>
+ /
+
+<br>
+<!-- <i>
+"Technology is not neutral. Each algorithm, each system we design, carries a responsibility. Use your skills to build solutions that empower, enlighten, and do not harm."
+— Barbara Simons
+</i> -->
+
+<b>GitHub Stats</b>
+![](https://github-readme-stats.vercel.app/api?username=alebora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=btelgeuse&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=btelgeuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+</samp>
+<clear="left"/>
+
+### My Projects
+
+#### WellRise ⚙️HTN2024⚙️ – Guide to wellness
 
 <!-- <img src="https://github.com/user-attachments/assets/0ce22c28-e062-4942-8d39-baf93eb919cc" width="100%"/> -->
 <img width="325" alt="wellrise" src="https://github.com/alebora/WellRise_Info/blob/main/static/images/wellRisePhysical.png">
@@ -31,7 +70,7 @@
 
 ---
 
-### Pantry Pal – Waste Food no more
+#### Pantry Pal – Waste Food no more
 
 <!-- <img src="https://github.com/user-attachments/assets/519cc921-5d7a-4a8c-914c-58a9363e2d0b" width="100%"/> -->
 <img width="600" alt="pantrypal2" src="https://github.com/jkmathilda/PantryPal/assets/142202145/7b09448f-bacb-4117-8d04-42f587d11960">
@@ -40,7 +79,7 @@
 
 ---
 
-### Movie Filter – Let the movie be chosen for you
+#### Movie Filter – Let the movie be chosen for you
 
 <!-- <img src="https://github.com/user-attachments/assets/483bb202-43f4-4e7b-aff1-8ca75f4df1e4" width="100%"/> -->
 No more time wasting searching for the perfcet movie
@@ -53,7 +92,7 @@ No more time wasting searching for the perfcet movie
 
 
 
-### 🏁 Fast & Furious Typing Race – Test your speed, race against time!
+#### 🏁 Fast & Furious Typing Race – Test your speed, race against time!
 
 No more boring typing tests, race like a pro and feel the adrenaline!
 
@@ -61,7 +100,7 @@ No more boring typing tests, race like a pro and feel the adrenaline!
 
 **Fast & Furious Typing Race** web app designed for quick and exciting typing practice. Challenge yourself to type iconic quotes from the Fast & Furious saga, improve your speed and accuracy, and experience the thrill of finishing under pressure, all in a visually engaging interface. Perfect for those who love fast-paced fun and skill-building!
 
-### 🥷🐸 First Platform Game – Frog Ninja
+#### 🥷🐸 First Platform Game – Frog Ninja
 
 Fast-paced ninja adventure
 
@@ -70,7 +109,7 @@ Fast-paced ninja adventure
 Godot-powered action game where you play as a frog ninja on a mission through danger-filled terrain. Fully animated and dynamic characters and background.
 
 
-## Some Tools I Use
+### Some Tools I Use
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> <img width="12"/>
@@ -102,11 +141,13 @@ Godot-powered action game where you play as a frog ninja on a mission through da
   -->
 </p>
 
-## GitHub Streak
+<!-- ## GitHub Streak -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alebora&show_icons=true&locale=en&layout=compact" alt="alebora" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alebora&show_icons=true&locale=en&layout=compact" alt="alebora" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alebora&show_icons=true&locale=en" alt="alebora" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alebora&" alt="alebora" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alebora)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=alebora)](https://git.io/streak-stats) -->
+
+
