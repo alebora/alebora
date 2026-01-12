@@ -31,9 +31,6 @@ Web Dev @
 Software Engineering @ 
 <a href="https://www.agfahealthcare.com/augmented-intelligence/">AGFA</a>
  /
-Web Dev @ 
-<a href="https://hackthe6ix.com/">Hack The 6ix</a>
- /
 Marketing Coordinator @ 
 <a href="https://csclub.uwaterloo.ca/">UW Computer Science Club</a>
  /
