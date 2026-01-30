@@ -1,4 +1,8 @@
 ### Hola! My name is Ale👩‍💻
+<img align="left" src="/av.jpeg" width="300" >
+
+<samp> 🌸 Welcome to my github :)</samp>
+
 <a href="https://www.linkedin.com/in/sashaboruk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5" alt="LinkedIn Badge"/>
 </a>
@@ -8,20 +12,17 @@
 <a href="sboruk@uwaterloo.ca" target="_blank">
   <img src="https://img.shields.io/badge/Email-E4405F" alt="Instagram Badge"/>
 </a>
-
-<img align="left" src="/av.jpeg" width="300" >
-
-<samp> 🌸 Welcome to my github :)</samp>
-
-
+<br> <br>
 <samp>
   
 Combinatorics and Optimization @
-<a href="https://uwaterloo.ca/future-students/programs/combinatorics-and-optimization">University of Waterloo</a>
+<a href="https://uwaterloo.ca/future-students/programs/combinatorics-and-optimization">University of Waterloo</a> 
+<br> 
+📍 Ontario, Canada
 <br><br>
 
 <b>currently:</b><br>
-On Co-op Summer 2026
+On Co-op Summer 2026 and Fall 2026 (4/8 month coops welcome)
 <br><br>
 
 <b>previously:</b><br>
@@ -35,7 +36,7 @@ Marketing Coordinator @
 <a href="https://csclub.uwaterloo.ca/">UW Computer Science Club</a>
  /
 Director of Publicity @ 
-<a href="https://wics.uwaterloo.ca/">UW Women in CS</a>
+<a href="https://wics.uwaterloo.ca/">UW Women in CS Club</a>
 /
 Junior Systems Architect @ 
 <a href="https://www.embis.ca/">MBIS</a>
@@ -50,8 +51,9 @@ Junior Systems Architect @
 <b>GitHub Stats</b>
 ![](https://github-readme-stats.vercel.app/api?username=alebora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=btelgeuse&theme=dark&hide_border=false)<br/>
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btelgeuse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
 </samp>
 <clear="left"/>
