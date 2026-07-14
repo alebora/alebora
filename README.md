@@ -22,7 +22,7 @@ Combinatorics and Optimization @
 <br><br>
 
 <b>currently:</b><br>
-Full-Stak Developer @ 
+Full-Stack Developer @ 
 <a href="https://www.wsib.ca/en">WSIB</a>
 <br><br>
 
