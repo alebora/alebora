@@ -15,7 +15,7 @@
 <br> <br>
 <samp>
   
-Combinatorics and Optimization @
+CS + Combinatorics and Optimization @
 <a href="https://uwaterloo.ca/future-students/programs/combinatorics-and-optimization">University of Waterloo</a> 
 <br> 
 📍 Ontario, Canada
@@ -30,17 +30,17 @@ Full-Stack Developer @
 Web Dev @ 
 <a href="https://hackthe6ix.com/">Hack The 6ix</a>
  /
-Software Engineering @ 
+Software Engineer @ 
 <a href="https://www.agfahealthcare.com/augmented-intelligence/">AGFA</a>
  /
-Marketing Coordinator @ 
-<a href="https://csclub.uwaterloo.ca/">UW Computer Science Club</a>
+Software Engineer @ 
+<a href="https://www.embis.ca/">MBIS</a>
  /
-Director of Publicity @ 
+ Director of Publicity @ 
 <a href="https://wics.uwaterloo.ca/">UW Women in CS Club</a>
 /
-Junior Systems Architect @ 
-<a href="https://www.embis.ca/">MBIS</a>
+Director of Marketing @ 
+<a href="https://csclub.uwaterloo.ca/">UW Computer Science Club</a>
  /
 
 <br>
